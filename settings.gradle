@@ -1,0 +1,3 @@
+include ':libBioMini_v20'
+include ':app'
+rootProject.name = "Biomini Sample"
